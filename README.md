@@ -1,2 +1,2 @@
-# vuejs-template
-a template for vuejs
+# vue.js template
+A template for vue.js 3.
